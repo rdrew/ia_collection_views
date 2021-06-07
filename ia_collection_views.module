@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the IA_collection_views feature.
+ */
+
+include_once 'ia_collection_views.features.inc';
